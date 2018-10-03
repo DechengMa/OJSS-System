@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=AuthenticationController
+comment1.params=username\ password
+comment1.target=model.Account\ volidateaccount(java.lang.String,\ java.lang.String)
+comment2.params=username\ password\ usertype\ email
+comment2.target=boolean\ regisiter(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+numComments=3

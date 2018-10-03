@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=InvitationController
+comment1.params=dataStorage\ message\ jobseekerid
+comment1.target=boolean\ createdInvitation(model.DataStorage,\ java.lang.String,\ int)
+comment2.params=
+comment2.target=java.util.ArrayList\ getInvitation()
+numComments=3

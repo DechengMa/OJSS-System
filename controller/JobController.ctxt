@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=JobController
+comment1.params=title\ keywords\ categories\ desc\ adv
+comment1.target=boolean\ createJob(java.lang.String,\ java.util.ArrayList,\ java.util.ArrayList,\ java.lang.String,\ boolean)
+comment2.params=
+comment2.target=java.util.ArrayList\ showCreatedJob()
+comment3.params=jobid
+comment3.target=boolean\ deleteJob(int)
+numComments=4

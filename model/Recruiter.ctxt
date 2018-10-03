@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Recruiter
+comment1.params=recruiterId\ createdJobIds
+comment1.target=Recruiter(int,\ java.util.ArrayList)
+comment2.params=
+comment2.target=int\ getRecruiterId()
+comment3.params=recruiterId
+comment3.target=void\ setRecruiterId(int)
+comment4.params=
+comment4.target=java.util.ArrayList\ getCreatedJobIds()
+comment5.params=createdJobIds
+comment5.target=void\ setCreatedJobIds(java.util.ArrayList)
+numComments=6

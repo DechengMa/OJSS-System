@@ -1,0 +1,5 @@
+1``You are the best``2``1
+2``You are considered``2``3
+0``Hi``2``1
+3``hi``2``2
+4``Hi``2``1
